@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://www.wooveep.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "卿云碧空"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "cloudyi"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -60,12 +60,12 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://twitter.com/"
 
   [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
+    name = "email"
+    url = "lyt.ccie@gmail.com"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/wooveep"
 
 [menu]
 
@@ -76,5 +76,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20
